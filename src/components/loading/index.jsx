@@ -1,6 +1,6 @@
 import React from 'react'
 
-const Loading = (props:any) => {
+const Loading = (props) => {
     return null
 }
 

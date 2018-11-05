@@ -1,2 +1,2 @@
-import '@babel/polyfill';
-import 'to-blob';
+import '@babel/polyfill'
+import 'to-blob'
