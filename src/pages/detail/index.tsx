@@ -5,7 +5,7 @@ import { Button } from 'antd-mobile'
 class Detail extends Component{
     render(){
         return (
-            <Block><Button></Button></Block>
+            <Block><Button type='primary'>确定</Button></Block>
         )
     }
 }
